@@ -1,19 +1,19 @@
-![Header](https://github.com/enjuguna/enjuguna/blob/main/Eric%20Header%20(3).png)
+![Header](https://cdn.pixabay.com/photo/2014/08/11/11/50/moon-415501__340.jpg)
 
-## Hi there, Michael Orwa here 👋
+## Hey, I'm Michael Orwa <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enjuguna&label=Views&color=blue&style=plastic" alt="enjuguna" /> </p>
 <a href="https://twitter.com/njuguna_me">
-  <img align="left" alt="Eric's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Micheal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/eric-njuguna-a17a61136/">
-  <img align="left" alt="Eric's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/michael-orwa-950102161/">
+  <img align="left" alt="Michael's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/enjuguna">
-  <img align="left" alt="Eric's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/Mjoel4708/">
+  <img align="left" alt="Michael's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/njuguna.me/">
-  <img align="left" alt="Eric's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Michael's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </br>
 </br>
@@ -32,18 +32,15 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjoel4708)](https://github.com/mjoel4708/github-readme-stats)
+    
 
 </br>
 </br>
 
   
-[![Eric's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=mjoel4708&theme=dark&layout=compact)](https://github.com/mjoel4708/github-readme-stats)
+[![Michael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mjoel4708)](https://github.com/Mjoel4708/github-readme-stats)
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjoel4708&show_icons=true&theme=dark&line_height=27" alt="Eric's's github stats"/>
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjoel4708&show_icons=true&theme=dark&line_height=27" alt="Micheal's github stats"/>
 </a>
