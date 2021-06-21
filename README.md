@@ -2,7 +2,7 @@
 
 ## Hey, I'm Michael Orwa <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enjuguna&label=Views&color=blue&style=plastic" alt="enjuguna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Michael&label=Views&color=blue&style=plastic" alt="Michael" /> </p>
 <a href="https://twitter.com/njuguna_me">
   <img align="left" alt="Micheal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -18,15 +18,14 @@
 </br>
 </br>
 </br>
-- 🔭 Software Developer </br>
-- 🌱 Frequently learning to improve my craft
+
 
 </br>
 </br>
 </br>
 
-[![Twitter: njuguna_me](https://img.shields.io/twitter/follow/njuguna_me?style=social)](https://twitter.com/njuguna_me)
-[![GitHub enjuguna](https://img.shields.io/github/followers/enjuguna?label=follow&style=social)](https://github.com/enjuguna)
+[![Twitter: njuguna_me](https://img.shields.io/twitter/follow/MichaelOrwa1?style=social)](https://twitter.com/MichaelOrwa1)
+[![GitHub Michael](https://img.shields.io/github/followers/MichaelOrwa1?label=follow&style=social)](https://github.com/mjoel4708)
 
 </br>
 
