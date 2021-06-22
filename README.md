@@ -38,7 +38,7 @@
 </br>
 
   
-[![Michael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mjoel4708)](https://github.com/Mjoel4708/waka-readme-stats)
+[![Michael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mjoel4708)](https://github.com/Mjoel4708/github-readme-stats)
 
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjoel4708&show_icons=true&theme=dark&line_height=27" alt="Micheal's github stats"/>
