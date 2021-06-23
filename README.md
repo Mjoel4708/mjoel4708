@@ -1,4 +1,4 @@
-![Header](https://cdn.pixabay.com/photo/2014/08/11/11/50/moon-415501__340.jpg)
+![Header](https://github.com/Mjoel4708/mjoel4708/blob/master/Copy%20of%20Michael%20Orwa.gif)
 
 ## Hey, I'm Michael Orwa <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
