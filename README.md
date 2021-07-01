@@ -1,8 +1,10 @@
-![Header](https://github.com/Mjoel4708/mjoel4708/blob/master/Copy%20of%20Michael%20Orwa.gif)
+
 
 ## Hey, I'm Michael Orwa <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Michael&label=Views&color=blue&style=plastic" alt="Michael" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Michael&label=Views&color=blue&style=plastic" alt="Michael" /> 
+</p>
 <a href="https://twitter.com/njuguna_me">
   <img align="left" alt="Micheal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
