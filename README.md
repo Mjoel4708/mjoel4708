@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Michael&label=Views&color=blue&style=plastic" alt="Michael" /> 
 </p>
 <p align="center"> 
-  <img width="300" height="300" src="https://github.com/Mjoel4708/mjoel4708.git/my-octocat-1625144541112.png?raw=true"></a>
+  <img width="300" height="300" src="https://github.com/Mjoel4708/mjoel4708/blob/master/my-octocat-1625144541112.png?raw=true"></a>
 
 </p> 
 <a href="https://twitter.com/michaelorwa1">
