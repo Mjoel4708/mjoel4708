@@ -49,5 +49,7 @@
 <a href="https://instagram.com/njuguna.me/">
   <img align="left" alt="Michael's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-[![Twitter: njuguna_me](https://img.shields.io/twitter/follow/MichaelOrwa1?style=social)](https://twitter.com/MichaelOrwa1)
-[![GitHub Michael](https://img.shields.io/github/followers/MichaelOrwa1?label=follow&style=social)](https://github.com/mjoel4708)
+<p>
+  [![Twitter: njuguna_me](https://img.shields.io/twitter/follow/MichaelOrwa1?style=social)](https://twitter.com/MichaelOrwa1)
+  [![GitHub Michael](https://img.shields.io/github/followers/MichaelOrwa1?label=follow&style=social)](https://github.com/mjoel4708)
+</p>
