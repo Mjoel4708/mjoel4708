@@ -5,6 +5,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Michael&label=Views&color=blue&style=plastic" alt="Michael" /> 
 </p>
+<p align="center"> 
+  <img width="300" height="300" src="https://github.com/Mjoel4708/mjoel4708.git/my-octocat-1625144541112.png?raw=true"></a>
+
+</p> 
 <a href="https://twitter.com/michaelorwa1">
   <img align="left" alt="Micheal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -31,13 +35,10 @@
 
 </br>
 
-
- <p align="center"> 
-  <img width="300" height="300" src="https://github.com/Mjoel4708/mjoel4708.git/my-octocat.png?raw=true"></a>
   **Languages and Tools:**  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjoel4708)](https://github.com/mjoel4708/github-readme-stats)
-</p>   
+   
 
 </br>
 </br>
