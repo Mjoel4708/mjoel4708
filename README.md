@@ -9,18 +9,7 @@
   <img width="300" height="300" src="https://github.com/Mjoel4708/mjoel4708/blob/master/my-octocat-1625144541112.png?raw=true"></a>
 
 </p> 
-<a href="https://twitter.com/michaelorwa1">
-  <img align="left" alt="Micheal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/michael-orwa-950102161/">
-  <img align="left" alt="Michael's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Mjoel4708/">
-  <img align="left" alt="Michael's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/njuguna.me/">
-  <img align="left" alt="Michael's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 </br>
 </br>
 </br>
@@ -30,8 +19,7 @@
 </br>
 </br>
 
-[![Twitter: njuguna_me](https://img.shields.io/twitter/follow/MichaelOrwa1?style=social)](https://twitter.com/MichaelOrwa1)
-[![GitHub Michael](https://img.shields.io/github/followers/MichaelOrwa1?label=follow&style=social)](https://github.com/mjoel4708)
+
 
 </br>
 
@@ -49,3 +37,17 @@
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjoel4708&show_icons=true&theme=dark&line_height=27" alt="Micheal's github stats"/>
 </a>
+<a href="https://twitter.com/michaelorwa1">
+  <img align="left" alt="Micheal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/michael-orwa-950102161/">
+  <img align="left" alt="Michael's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Mjoel4708/">
+  <img align="left" alt="Michael's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/njuguna.me/">
+  <img align="left" alt="Michael's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+[![Twitter: njuguna_me](https://img.shields.io/twitter/follow/MichaelOrwa1?style=social)](https://twitter.com/MichaelOrwa1)
+[![GitHub Michael](https://img.shields.io/github/followers/MichaelOrwa1?label=follow&style=social)](https://github.com/mjoel4708)
