@@ -3,7 +3,7 @@
 ## Hey, I'm Michael Orwa <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Michael&label=Views&color=blue&style=plastic" alt="Michael" /> 
+  <img src="https://komarev.com/ghpvc/?username=mjoel4708&label=Views&color=blue&style=plastic" alt="Michael" /> 
 </p>
 <p align="center"> 
   <img width="300" height="300" src="https://github.com/Mjoel4708/mjoel4708/blob/master/my-octocat-1625144541112.png?raw=true"></a>
