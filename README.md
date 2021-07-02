@@ -2,10 +2,10 @@
 
 ## Hey, I'm Michael Orwa <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Michael&label=Views&color=blue&style=plastic" alt="Michael" /> 
 </p>
-<a href="https://twitter.com/njuguna_me">
+<a href="https://twitter.com/michaelorwa1">
   <img align="left" alt="Micheal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/michael-orwa-950102161/">
@@ -31,10 +31,13 @@
 
 </br>
 
-**Languages and Tools:**  
+
+ <p align="center"> 
+  <img width="300" height="300" src="https://github.com/Mjoel4708/mjoel4708.git/my-octocat.png?raw=true"></a>
+  **Languages and Tools:**  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjoel4708)](https://github.com/mjoel4708/github-readme-stats)
-    
+</p>   
 
 </br>
 </br>
