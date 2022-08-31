@@ -38,7 +38,5 @@
 <a href="https://github.com/Mjoel4708/">
   <img align="right" alt="Michael's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/njuguna.me/">
-  <img align="right" alt="Michael's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 
