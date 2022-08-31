@@ -22,8 +22,7 @@
 </br>
 </br>
 
-  
-[![Michael's wakatime stats ]]
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
