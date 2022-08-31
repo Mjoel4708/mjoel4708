@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 May 2021 - To: 30 August 2022
+From: 23 August 2022 - To: 30 August 2022
 
-Total Time: 2,141 hrs 57 mins
+Total Time: 57 hrs 19 mins
 
-Other              1,134 hrs 57 mins>>>>>>>>>>>>>------------   52.99 %
+Other        46 hrs 40 mins  ████████████████████▒░░░░   81.43 %
 ```
 
 <!--END_SECTION:waka-->
