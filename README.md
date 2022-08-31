@@ -23,7 +23,9 @@
 </br>
 
   
-[![Michael's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=mjoel4708&theme=dark&layout=compact)](https://github.com/mjoel4708/github-readme-stats)
+[![Michael's wakatime stats ]
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjoel4708&show_icons=true&theme=dark&line_height=27" alt="Micheal's github stats"/>
