@@ -24,6 +24,15 @@
 
 
 <!--START_SECTION:waka-->
+
+```text
+From: 21 May 2021 - To: 30 August 2022
+
+Total Time: 2,141 hrs 57 mins
+
+Other              1,134 hrs 57 mins>>>>>>>>>>>>>------------   52.99 %
+```
+
 <!--END_SECTION:waka-->
 
 
