@@ -23,17 +23,11 @@
 </br>
 
 
+## 📊 Weekly development breakdown
+
 <!--START_SECTION:waka-->
-
-```text
-From: 23 August 2022 - To: 30 August 2022
-
-Total Time: 57 hrs 19 mins
-
-Other        46 hrs 40 mins  ████████████████████▒░░░░   81.43 %
-```
-
 <!--END_SECTION:waka-->
+
 
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjoel4708&show_icons=true&theme=dark&line_height=27" alt="Micheal's github stats"/>
