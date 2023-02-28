@@ -23,10 +23,16 @@
 </br>
 
 
-## 📊 Weekly development breakdown
+## My Wakatime Stats
 
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<!-- If you want the cool images, go to https://github.com/anuraghazra/github-readme-stats -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 
 
