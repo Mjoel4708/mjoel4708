@@ -1,14 +1,13 @@
 
 
 ## Hey, I'm Michael Orwa <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mjoel4708&label=Views&color=blue&style=plastic" alt="Michael" /> 
 </p>
 <p align="center"> 
   <img width="300" height="300" src="https://github.com/Mjoel4708/mjoel4708/blob/master/my-octocat-1625144541112.png?raw=true"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjoel4708&count_private=true&theme=tokyonight&line_height=52">
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjoel4708&hide_progress=true&langs_count=30&count_private=true&theme=tokyonight&line_height=52">
+</p>
 
   <div style="display:flex">
   <div style="margin-right: 10px;">
@@ -68,11 +67,14 @@
   
 </div>
 
+
 <br>
 <br>
 <br>
 
-
+<p>
+  <img width="300" src="https://wakatime.com/badge/user/4511192b-2987-40ac-9c86-72bdaed538d2.svg"></a>
+</p>
 
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjoel4708&show_icons=true&theme=dark&line_height=27" alt="Micheal's github stats"/>
